@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -7,11 +8,34 @@
     <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="Somme changes">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
+=======
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="init" />
+>>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
@@ -29,16 +53,47 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1huqCpLAf9E2jrcuXDtx3lc5juH" />
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hurb21MWm1p5dJeJXuHLGR53p0" />
+>>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+>>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+<<<<<<< HEAD
     <property name="nodejs_package_manager_path" value="npm" />
+=======
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cs.traslate" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/cs/traslate" />
+    </key>
+>>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -53,6 +108,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+<<<<<<< HEAD
     </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
@@ -64,6 +120,8 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+=======
+>>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -91,7 +149,13 @@
       </method>
     </configuration>
   </component>
+<<<<<<< HEAD
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+=======
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+>>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="" />
@@ -100,6 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600842745695</updated>
       <workItem from="1600842749025" duration="2191000" />
+<<<<<<< HEAD
       <workItem from="1600871207809" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="Second Upload">
@@ -145,21 +210,62 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="683" y="356" key="chooseDestDirectoryDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600873238905" />
+=======
+      <workItem from="1600871902552" duration="1685000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1600873296788</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600873296788</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="111" key="#Project_Structure" timestamp="1600872737287">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="448" y="111" key="#Project_Structure/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600872737287" />
+    <state x="745" y="406" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600873029120">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="745" y="406" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600873029120" />
+    <state x="745" y="418" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1600872758028">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="745" y="418" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600872758028" />
+    <state x="560" y="270" key="Vcs.Push.Dialog.v2" timestamp="1600873326417">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="560" y="270" key="Vcs.Push.Dialog.v2/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600873326417" />
+    <state x="762" y="315" key="chooseDestDirectoryDialog" timestamp="1600872687919">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="762" y="315" key="chooseDestDirectoryDialog/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600872687919" />
+    <state x="763" y="451" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600873642548">
+      <screen x="0" y="23" width="1920" height="1014" />
+    </state>
+    <state x="763" y="451" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600873642548" />
   </component>
 </project>

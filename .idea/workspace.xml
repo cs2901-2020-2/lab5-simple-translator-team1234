@@ -3,9 +3,29 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="Somme changes">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/googlekey.json" beforeDir="false" afterPath="$PROJECT_DIR$/googlekey.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TranslateText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TranslateText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +68,31 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="TranslateText" type="Application" factoryName="Application" nameIsGenerated="true">
+      <envs>
+        <env name="GOOGLE_APPLICATION_CREDENTIALS" value="$PROJECT_DIR$/googlekey.json" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="TranslateText" />
+      <module name="lab5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TranslateText" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,6 +161,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Upload" />
     <MESSAGE value="Second Upload" />
@@ -137,10 +172,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="Somme changes" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="418" y="197" width="1084" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600874248568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="418" y="197" width="1084" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600874248568" />
     <state x="344" y="147" key="CommitChangelistDialog2" timestamp="1600873327356">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="344" y="147" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1600873327356" />
+    <state x="819" y="331" width="271" height="458" key="EnvironmentVariablesDialog" timestamp="1600874187835">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="819" y="331" width="271" height="458" key="EnvironmentVariablesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600874187835" />
+    <state width="1878" height="472" key="GridCell.Tab.0.bottom" timestamp="1600874413823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="472" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600874413823" />
+    <state width="1878" height="472" key="GridCell.Tab.0.center" timestamp="1600874413810">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="472" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600874413810" />
+    <state width="1878" height="472" key="GridCell.Tab.0.left" timestamp="1600874413809">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="472" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600874413809" />
+    <state width="1878" height="472" key="GridCell.Tab.0.right" timestamp="1600874413822">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="472" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600874413822" />
     <state x="683" y="356" key="chooseDestDirectoryDialog" timestamp="1600873238905">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>

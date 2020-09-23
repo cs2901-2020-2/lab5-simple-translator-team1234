@@ -37,4 +37,8 @@ import java.io.IOException;
                 }
             }
         }
+        public static void main (String args[]) throws IOException {
+            TranslateText t1 = new TranslateText();
+            t1.translateText();
+        }
     }

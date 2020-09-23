@@ -10,16 +10,16 @@ import java.util.Scanner;
 
 
 @Test
-class TraslateSpanishToEnglishTest{
+class CSTranslatorTest{
 
 
     @Test
-    void testTranslation(){
+    void testTranslation() throws  Exception{
         List<String> input = readInput(0);
         List<String> output = readOutput(0);
         CSTranslator csTranslator = new CSTranslator();
         for ( int i = 0; i<input.size(); i++) {
-            String translatedText = csTranslator.translateText(text);
+            String translatedText = csTranslator.translateText(input.get(i));
             Assert.assertEquals(translatedText, output.get(i));
         }
     }

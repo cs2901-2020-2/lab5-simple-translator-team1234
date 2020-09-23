@@ -24,8 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSTranslator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cs/traslate/CSTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cs/traslate/CSTranslator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +75,16 @@
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="RunTranslate" type="Application" factoryName="Application">
+      <envs>
+        <env name="GOOGLE_APPLICATION_CREDENTIALS" value="$PROJECT_DIR$/googlekey.json" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cs.traslate.CSTranslator" />
+      <module name="lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -168,6 +176,14 @@
       <screen x="0" y="23" width="1920" height="1014" />
     </state>
     <state x="448" y="111" key="#Project_Structure/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600872737287" />
+    <state x="359" y="233" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600876649380">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="359" y="233" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876649380" />
+    <state x="632" y="380" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600876571202">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="632" y="380" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876571202" />
     <state x="745" y="406" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600873029120">
       <screen x="0" y="23" width="1920" height="1014" />
     </state>
@@ -176,6 +192,26 @@
       <screen x="0" y="23" width="1920" height="1014" />
     </state>
     <state x="745" y="418" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600872758028" />
+    <state x="749" y="315" width="522" height="535" key="EnvironmentVariablesDialog" timestamp="1600876625452">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="749" y="315" width="522" height="535" key="EnvironmentVariablesDialog/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876625452" />
+    <state width="1748" height="303" key="GridCell.Tab.0.bottom" timestamp="1600876633117">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.bottom/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876633117" />
+    <state width="1748" height="303" key="GridCell.Tab.0.center" timestamp="1600876633116">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.center/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876633116" />
+    <state width="1748" height="303" key="GridCell.Tab.0.left" timestamp="1600876633116">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.left/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876633115" />
+    <state width="1748" height="303" key="GridCell.Tab.0.right" timestamp="1600876633117">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.right/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876633117" />
     <state x="0" y="86" key="MergeDialog" timestamp="1600874064784">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

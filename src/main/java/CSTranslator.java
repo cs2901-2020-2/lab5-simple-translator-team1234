@@ -1,12 +1,10 @@
 import com.google.cloud.translate.v3.LocationName;
 import com.google.cloud.translate.v3.TranslateTextRequest;
 import com.google.cloud.translate.v3.TranslateTextResponse;
-import com.google.cloud.translate.v3.Translation;
 import com.google.cloud.translate.v3.TranslationServiceClient;
 import java.io.IOException;
-import java.util.List;
 
-    public class TranslateText {
+public class CSTranslator {
 
         public static String translateText(String text) throws IOException {
             // TODO(developer): Replace these variables before running the sample.
@@ -35,7 +33,7 @@ import java.util.List;
             }
         }
         public static void main (String args[]) throws IOException {
-            TranslateText t1 = new TranslateText();
+            CSTranslator t1 = new CSTranslator();
             System.out.println(t1.translateText("Hola como estas"));
         }
     }

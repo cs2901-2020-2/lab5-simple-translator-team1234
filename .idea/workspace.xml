@@ -67,11 +67,11 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="TranslateText" type="Application" factoryName="Application" nameIsGenerated="true">
+    <configuration name="CSTranslator" type="Application" factoryName="Application" nameIsGenerated="true">
       <envs>
         <env name="GOOGLE_APPLICATION_CREDENTIALS" value="$PROJECT_DIR$/googlekey.json" />
       </envs>
-      <option name="MAIN_CLASS_NAME" value="TranslateText" />
+      <option name="MAIN_CLASS_NAME" value="CSTranslator" />
       <module name="lab5" />
       <method v="2">
         <option name="Make" enabled="true" />

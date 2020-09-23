@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="ChangeListManager">
-    <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="Somme changes">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
-=======
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -28,72 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="init" />
->>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
+    <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1huqCpLAf9E2jrcuXDtx3lc5juH" />
-=======
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1hurb21MWm1p5dJeJXuHLGR53p0" />
->>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
-=======
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
->>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-<<<<<<< HEAD
-    <property name="nodejs_package_manager_path" value="npm" />
-=======
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="cs.traslate" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/cs/traslate" />
-    </key>
->>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -103,12 +45,21 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
+    <configuration name="RunTranslate" type="Application" factoryName="Application">
+      <envs>
+        <env name="GOOGLE_APPLICATION_CREDENTIALS" value="$PROJECT_DIR$/googlekey.json" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="cs.traslate.CSTranslator" />
+      <module name="lab5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-<<<<<<< HEAD
     </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
@@ -120,8 +71,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-=======
->>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -149,13 +98,6 @@
       </method>
     </configuration>
   </component>
-<<<<<<< HEAD
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-=======
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
->>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="" />
@@ -164,79 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600842745695</updated>
       <workItem from="1600842749025" duration="2191000" />
-<<<<<<< HEAD
-      <workItem from="1600871207809" duration="604000" />
-    </task>
-    <task id="LOCAL-00001" summary="Second Upload">
-      <created>1600872746976</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1600872746976</updated>
-    </task>
-    <task id="LOCAL-00002" summary="GoogleKEy">
-      <created>1600873000203</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1600873000203</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Somme changes">
-      <created>1600873327545</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1600873327545</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="First Upload" />
-    <MESSAGE value="Second Upload" />
-    <MESSAGE value="GoogleKEy" />
-    <MESSAGE value="Somme changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Somme changes" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="344" y="147" key="CommitChangelistDialog2" timestamp="1600873327356">
-      <screen x="0" y="23" width="1792" height="1097" />
-    </state>
-    <state x="344" y="147" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1600873327356" />
-    <state x="683" y="356" key="chooseDestDirectoryDialog" timestamp="1600873238905">
-      <screen x="0" y="23" width="1792" height="1097" />
-    </state>
-    <state x="683" y="356" key="chooseDestDirectoryDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600873238905" />
-=======
-      <workItem from="1600871902552" duration="1685000" />
-    </task>
-    <task id="LOCAL-00001" summary="init">
-      <created>1600873296788</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1600873296788</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
->>>>>>> 7bc482676133b471f753c2ae3944ddee858e61cd
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
@@ -247,6 +117,14 @@
       <screen x="0" y="23" width="1920" height="1014" />
     </state>
     <state x="448" y="111" key="#Project_Structure/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600872737287" />
+    <state x="359" y="233" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600876649380">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="359" y="233" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876649380" />
+    <state x="632" y="380" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600876571202">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="632" y="380" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876571202" />
     <state x="745" y="406" width="430" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600873029120">
       <screen x="0" y="23" width="1920" height="1014" />
     </state>
@@ -255,17 +133,47 @@
       <screen x="0" y="23" width="1920" height="1014" />
     </state>
     <state x="745" y="418" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600872758028" />
-    <state x="560" y="270" key="Vcs.Push.Dialog.v2" timestamp="1600873326417">
-      <screen x="0" y="23" width="1920" height="1014" />
+    <state x="749" y="315" width="522" height="535" key="EnvironmentVariablesDialog" timestamp="1600876625452">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
+    <state x="749" y="315" width="522" height="535" key="EnvironmentVariablesDialog/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876625452" />
+    <state width="1748" height="303" key="GridCell.Tab.0.bottom" timestamp="1600876633117">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.bottom/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876633117" />
+    <state width="1748" height="303" key="GridCell.Tab.0.center" timestamp="1600876633116">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.center/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876633116" />
+    <state width="1748" height="303" key="GridCell.Tab.0.left" timestamp="1600876633116">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.left/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876633115" />
+    <state width="1748" height="303" key="GridCell.Tab.0.right" timestamp="1600876633117">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.right/-1920.63.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1600876633117" />
+    <state x="0" y="86" key="MergeDialog" timestamp="1600874064784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="86" key="MergeDialog/0.0.1920.1040/-1600.4.1600.860@0.0.1920.1040" timestamp="1600874064784" />
+    <state x="560" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600875359482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1600.4.1600.860@0.0.1920.1040" timestamp="1600875359482" />
     <state x="560" y="270" key="Vcs.Push.Dialog.v2/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600873326417" />
     <state x="762" y="315" key="chooseDestDirectoryDialog" timestamp="1600872687919">
       <screen x="0" y="23" width="1920" height="1014" />
     </state>
     <state x="762" y="315" key="chooseDestDirectoryDialog/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600872687919" />
-    <state x="763" y="451" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600873642548">
-      <screen x="0" y="23" width="1920" height="1014" />
+    <state x="763" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600875953433">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="763" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1600.4.1600.860@0.0.1920.1040" timestamp="1600875953433" />
     <state x="763" y="451" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.23.1280.777/0.23.1920.1014@0.23.1920.1014" timestamp="1600873642548" />
+    <state x="251" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1600874059772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="251" y="233" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/-1600.4.1600.860@0.0.1920.1040" timestamp="1600874059772" />
   </component>
 </project>

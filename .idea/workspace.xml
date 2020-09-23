@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="">
+    <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="Second Upload">
+      <change afterPath="$PROJECT_DIR$/googlekey.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSTranslator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -97,6 +108,14 @@
       <workItem from="1600842749025" duration="2191000" />
       <workItem from="1600871207809" duration="604000" />
     </task>
+    <task id="LOCAL-00001" summary="Second Upload">
+      <created>1600872746976</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600872746976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,13 +123,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Upload" />
+    <MESSAGE value="Second Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Upload" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="147" key="CommitChangelistDialog2" timestamp="1600872323418">
+    <state x="344" y="147" key="CommitChangelistDialog2" timestamp="1600872746713">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="344" y="147" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1600872323418" />
+    <state x="344" y="147" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1600872746713" />
   </component>
   <component name="masterDetails">
     <states>

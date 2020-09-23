@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="GoogleKEy" />
+    <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="Somme changes">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +28,6 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="794" />
-    <option name="y" value="45" />
-    <option name="width" value="1761" />
-    <option name="height" value="1210" />
-  </component>
   <component name="ProjectId" id="1huqCpLAf9E2jrcuXDtx3lc5juH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,6 +38,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -119,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600873000203</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Somme changes">
+      <created>1600873327545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600873327545</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,13 +133,18 @@
     <MESSAGE value="First Upload" />
     <MESSAGE value="Second Upload" />
     <MESSAGE value="GoogleKEy" />
-    <option name="LAST_COMMIT_MESSAGE" value="GoogleKEy" />
+    <MESSAGE value="Somme changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Somme changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="344" y="147" key="CommitChangelistDialog2" timestamp="1600873000002">
+    <state x="344" y="147" key="CommitChangelistDialog2" timestamp="1600873327356">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="344" y="147" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1600873000002" />
+    <state x="344" y="147" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1600873327356" />
+    <state x="683" y="356" key="chooseDestDirectoryDialog" timestamp="1600873238905">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="683" y="356" key="chooseDestDirectoryDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1600873238905" />
   </component>
   <component name="masterDetails">
     <states>

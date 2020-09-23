@@ -1,6 +1,3 @@
-package com.example.translate;
-
-// [START translate_v3_translate_text]
 import com.google.cloud.translate.v3.LocationName;
 import com.google.cloud.translate.v3.TranslateTextRequest;
 import com.google.cloud.translate.v3.TranslateTextResponse;
@@ -43,11 +40,9 @@ import java.io.IOException;
 
                 TranslateTextResponse response = client.translateText(request);
 
-                // Display the translation for each input text provided
                 for (Translation translation : response.getTranslationsList()) {
                     System.out.printf("Translated text: %s\n", translation.getTranslatedText());
                 }
             }
         }
     }
-// [END translate_v3_translate_text]

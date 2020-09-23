@@ -24,7 +24,6 @@
   <component name="ChangeListManager">
     <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="Somme changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/googlekey.json" beforeDir="false" afterPath="$PROJECT_DIR$/googlekey.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/TranslateText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TranslateText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,6 +161,15 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,22 +192,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="819" y="331" width="271" height="458" key="EnvironmentVariablesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1600874187835" />
-    <state width="1878" height="472" key="GridCell.Tab.0.bottom" timestamp="1600874413823">
+    <state width="1878" height="416" key="GridCell.Tab.0.bottom" timestamp="1600875137078">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="472" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600874413823" />
-    <state width="1878" height="472" key="GridCell.Tab.0.center" timestamp="1600874413810">
+    <state width="1878" height="416" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600875137078" />
+    <state width="1878" height="416" key="GridCell.Tab.0.center" timestamp="1600875137076">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="472" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600874413810" />
-    <state width="1878" height="472" key="GridCell.Tab.0.left" timestamp="1600874413809">
+    <state width="1878" height="416" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600875137076" />
+    <state width="1878" height="416" key="GridCell.Tab.0.left" timestamp="1600875137075">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="472" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600874413809" />
-    <state width="1878" height="472" key="GridCell.Tab.0.right" timestamp="1600874413822">
+    <state width="1878" height="416" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600875137075" />
+    <state width="1878" height="416" key="GridCell.Tab.0.right" timestamp="1600875137076">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="472" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600874413822" />
+    <state width="1878" height="416" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600875137076" />
     <state x="683" y="356" key="chooseDestDirectoryDialog" timestamp="1600873238905">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>

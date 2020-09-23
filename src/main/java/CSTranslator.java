@@ -12,10 +12,10 @@ import java.io.IOException;
 
         public static void translateText() throws IOException {
             // TODO(developer): Replace these variables before running the sample.
-            String projectId = "YOUR-PROJECT-ID";
+            String projectId = "test-245921";
             // Supported Languages: https://cloud.google.com/translate/docs/languages
-            String targetLanguage = "your-target-language";
-            String text = "your-text";
+            String targetLanguage = "en";
+            String text = "Hola";
             translateText(projectId, targetLanguage, text);
         }
 

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="" />
+    <list default="true" id="18cfab35-575c-4e42-914f-91fc0f812c83" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSTranslator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSTranslator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +101,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Upload" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="147" key="CommitChangelistDialog2" timestamp="1600872323418">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="344" y="147" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1600872323418" />
   </component>
   <component name="masterDetails">
     <states>
